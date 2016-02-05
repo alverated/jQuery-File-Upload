@@ -1,6 +1,6 @@
-# jQuery File Upload Plugin
+# jQuery File Upload Plugin (by Sebastian Tschan)
 
-For Laravel
+## Modified For Laravel
 
 ## Demo
 [Demo File Upload](https://blueimp.github.io/jQuery-File-Upload/)
