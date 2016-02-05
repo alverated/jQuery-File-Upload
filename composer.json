@@ -1,0 +1,18 @@
+{
+    "name": "alverated/jquery-file-upload",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alver Noquiao",
+            "email": "alver@crowdmetric.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Alverated\\JQueryFileUpload\\": "src"
+        }
+    }
+}
