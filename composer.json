@@ -1,5 +1,27 @@
 {
     "name": "alverated/jquery-file-upload",
+    "description": "File Upload widget for jQuery by Sebastian Tschan",
+    "homepage": "https://github.com/blueimp/jQuery-File-Upload",
+    "keywords": ["jquery",
+        "file",
+        "upload",
+        "widget",
+        "multiple",
+        "selection",
+        "drag",
+        "drop",
+        "progress",
+        "preview",
+        "cross-domain",
+        "cross-site",
+        "chunk",
+        "resume",
+        "gae",
+        "go",
+        "python",
+        "php",
+        "bootstrap"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -7,12 +29,12 @@
             "email": "alver@crowdmetric.com"
         }
     ],
-    "require": {
-
-    },
     "autoload": {
         "psr-4": {
             "Alverated\\JQueryFileUpload\\": "src"
         }
+    },
+    "require": {
+        "blueimp/jquery-file-upload": "^9.11"
     }
 }
