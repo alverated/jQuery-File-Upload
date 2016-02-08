@@ -2,7 +2,8 @@
     "name": "alverated/jquery-file-upload",
     "description": "File Upload widget for jQuery by Sebastian Tschan",
     "homepage": "https://github.com/blueimp/jQuery-File-Upload",
-    "keywords": ["jquery",
+    "keywords": [
+        "jquery",
         "file",
         "upload",
         "widget",
@@ -22,13 +23,14 @@
         "php",
         "bootstrap"
     ],
-    "license": "MIT",
     "authors": [
         {
             "name": "Sebastian Tschan",
             "homepage": "https://blueimp.net"
         }
     ],
+    "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Alverated\\JQueryFileUpload\\": "src"
@@ -37,6 +39,5 @@
     "require": {
         "php": ">=5.3.0",
         "blueimp/jquery-file-upload": "^9.11"
-    },
-    "minimum-stability": "dev"
+    }
 }
