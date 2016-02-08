@@ -25,8 +25,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Alver Noquiao",
-            "email": "alver@crowdmetric.com"
+            "name": "Sebastian Tschan",
+            "homepage": "https://blueimp.net"
         }
     ],
     "autoload": {
@@ -36,5 +36,6 @@
     },
     "require": {
         "blueimp/jquery-file-upload": "^9.11"
-    }
+    },
+    "minimum-stability": "dev"
 }
