@@ -4,7 +4,7 @@ namespace Alverated\JQueryFileUpload;
 
 use Illuminate\Support\ServiceProvider;
 
-class UploadHandlerServiceProvider extends ServiceProvider {
+class FileUploadServiceProvider extends ServiceProvider {
 
     /**
      * Indicates if loading of the provider is deferred.
